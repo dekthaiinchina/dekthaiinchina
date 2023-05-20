@@ -1,10 +1,10 @@
 ## DEK THAI IN CHINA
 _Hello, welcome to my github profile._
 
-### Contact Me
+## Contact Me
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 [![WeChat](https://img.shields.io/badge/wechat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
-### My IDE using & Text Editor
+## My IDE using & Text Editor
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](#)
