@@ -1,2 +1,2 @@
 _Hello, welcome to my github profile._
-[![cover]()]()
+[![cover](https://github.com/dekthaiinchina/dekthaiinchina/blob/main/github-cover.png)](#)
