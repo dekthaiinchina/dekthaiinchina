@@ -1,5 +1,7 @@
 [![cover](https://github.com/dekthaiinchina/dekthaiinchina/blob/main/github-cover.png)](#)
 
+# GitHub Stats Card
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=dekthaiinchina&show_icons=true&theme=dark"
