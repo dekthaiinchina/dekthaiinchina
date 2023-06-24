@@ -1,1 +1,1 @@
-[![cover](https://github.com/dekthaiinchina/dekthaiinchina/blob/main/github-cover.png)](#)
+_coded by dekthaiinchina_
