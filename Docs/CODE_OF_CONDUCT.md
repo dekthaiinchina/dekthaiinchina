@@ -1,1 +1,1 @@
-_dekthaiinchina_
+_code of conduct_
