@@ -1,3 +1,3 @@
-## Stargazers over time
+_dekthaiinchina stargazers_
 
-[![Stargazers over time](https://starchart.cc/microsoft/semantic-kernel.svg)](#)
+[![Stargazers over time](https://starchart.cc/microsoft/semantic-kernel.svg)](https://starchart.cc/microsoft/semantic-kernel)
