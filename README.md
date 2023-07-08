@@ -1,3 +1,1 @@
-_dekthaiinchina stargazers_
-
-[![stargazers](https://starchart.cc/Tencent/APIJSON.svg)](#)
+_coded by dekthaiinchina_
