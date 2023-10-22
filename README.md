@@ -56,11 +56,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7)
 
-### GitHub Stats
+### 统计数据
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dekthaiinchina&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
-### Random Dev Quote
+### 随机开发引用
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### Top Contributed Repo
+### 贡献最多的回购协议
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=dekthaiinchina&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
