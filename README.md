@@ -5,7 +5,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dekthaiinchina&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
 ### 个人资料浏览次数
-![GitHub Profile views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge)
+![GitHub Profile views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge&color=brightgreen)
 
 ### 程序设计语言
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
