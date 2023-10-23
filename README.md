@@ -1,5 +1,5 @@
 ### 关于我
-大家好，在中国的泰国青年_ 
+
 
 ### 程序设计语言
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
