@@ -48,6 +48,3 @@
 
 ### 统计数据
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dekthaiinchina&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
-### 贡献最多的回购协议
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=dekthaiinchina&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
