@@ -1,9 +1,6 @@
 ### 随机开发引用
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 个人资料浏览次数
-![GitHub Profile views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge&color=brightgreen)
-
 ### 程序设计语言
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -49,5 +46,5 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 统计数据
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dekthaiinchina&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+### 个人资料浏览次数
+![GitHub Profile views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge&color=brightgreen)
