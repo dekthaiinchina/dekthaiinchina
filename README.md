@@ -1,6 +1,9 @@
 ## Developer Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+### Profile Views
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge&color=brightgreen)
+
 ### Programming Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -111,6 +114,3 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-
-### Profile Views
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge&color=brightgreen)
