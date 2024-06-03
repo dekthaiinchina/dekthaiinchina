@@ -6,7 +6,6 @@
 
 ## Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dekthaiinchina&theme=github_dark&count_private=true&hide_border=true&line_height=20)
-
 ## Profile Views
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge&color=brightgreen)
 
