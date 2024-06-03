@@ -9,3 +9,8 @@
 
 ## Profile Views
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge&color=brightgreen)
+
+## My Team
+<a href="https://github.com/tencent/tdesign-vue/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tencent/tdesign-vue" />
+</a>
