@@ -11,4 +11,4 @@
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge&color=brightgreen)
 
 ## My Teams
-<img src="https://contrib.rocks/image?repo=tencent/tdesign-vue" />
+![GitHub Profile Views](https://contrib.rocks/image?repo=tencent/tdesign-vue)
