@@ -6,8 +6,6 @@
 
 ## Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dekthaiinchina&theme=github_dark&count_private=true&hide_border=true)
-![Github stats](https://github-readme-stats.vercel.app/api?username=hzlzh&theme=github_dark&count_private=true&hide_border=true)
-![Github stats](https://github-readme-stats.vercel.app/api?username=nihui&theme=github_dark&count_private=true&hide_border=true)
 
 
 ## Profile Views
