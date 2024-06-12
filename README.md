@@ -2,7 +2,7 @@
 **I'm Aum** - I'm a fullstack developer, game designer, web designer, film cinematographer, photography, music producer, content creator, and foreign people in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
 ## My Skills
-![SkillIcons](https://skillicons.dev/icons?i=cpp,cs,py,elixir,java,dart,lua,visualstudio,vscode,qt,sublime,angular,react,nextjs,vue,nuxtjs,mysql,docker,nodejs,npm,yarn,pnpm,unreal,unity,ae,pr,ai,ps,au,ableton)
+![SkillIcons](https://skillicons.dev/icons?i=cpp,cs,py,elixir,java,dart,lua,visualstudio,vscode,qt,sublime,angular,react,nextjs,vue,nuxtjs,mysql,docker,nodejs,npm,yarn,pnpm,unreal,unity,ae,pr,ai,ps,au,ableton&theme=light)
 
 ## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dekthaiinchina&theme=github_dark&count_private=true&hide_border=true)
