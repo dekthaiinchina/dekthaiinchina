@@ -11,7 +11,7 @@
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge&color=brightgreen)
 
 ## My Sponsored
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=b57b8623e03f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b57b8623e03f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 ## My Teams
 ![My Teams](https://contrib.rocks/image?repo=tencent/tdesign-react)
