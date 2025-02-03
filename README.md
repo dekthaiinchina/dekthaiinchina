@@ -7,8 +7,8 @@
 ## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dekthaiinchina&theme=transparent&count_private=true&hide_border=true)
 
-## My Teams
-![My Teams](https://contrib.rocks/image?repo=tencent/tdesign-react)
-
 ## Profile Views
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=dekthaiinchina&style=for-the-badge&color=brightgreen)
+
+## My Teams
+![My Teams](https://contrib.rocks/image?repo=tencent/tdesign-react)
