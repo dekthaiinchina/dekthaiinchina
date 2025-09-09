@@ -1,0 +1,17 @@
+{
+  "name": "bot-deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "reload": "node reload.js",
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "author": "dekthaiinchina",
+  "license": "ISC",
+  "description": "discord moderation bot",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "nodemon": "^3.1.10"
+  }
+}
