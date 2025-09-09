@@ -21,4 +21,4 @@ COPY application.yml .
 
 # Set the entrypoint to run the JAR file with the specified heap size.
 # Adjust -Xmx based on your server's available memory.
-ENTRYPOINT ["java", "-Xmx512M", "-jar", "Lavalink.jar"]
+ENTRYPOINT ["java", "-Xmx512M", "-jar", "Lavalink.jar", "--spring.profiles.active=dev"]
