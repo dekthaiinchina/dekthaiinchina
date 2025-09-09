@@ -93,7 +93,7 @@ plugins:
       playback: false
     oauth:
       enabled: true
-      refreshToken: ''
+      refreshToken: ""
       skipInitialization: false
   spotify:
     clientId: ""
@@ -126,7 +126,7 @@ metrics:
     endpoint: /metrics
 sentry:
   dsn: ""
-  environment: ""
+  environment: "production"
 logging:
   file:
     path: ./logs/
