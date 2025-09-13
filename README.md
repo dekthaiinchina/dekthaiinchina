@@ -12,4 +12,3 @@
 
 ## My Teams
 ![My Teams](https://contrib.rocks/image?repo=tencent/tdesign-react)
-
