@@ -1,5 +1,3 @@
-![](https://github.com/dekthaiinchina/dekthaiinchina/releases/download/v0.1/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
-
 ## Hey There! 👋
 i'm a fullstack developer, game designer, photography, music producer and foreign people in the bay area.
 i'm interested in development, moderation, and building thriving online communities.
